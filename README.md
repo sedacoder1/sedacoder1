@@ -1,4 +1,5 @@
-## Hi there 👋
+## Heyoooo👋🏾👋🏾
+### Welcome to my repository!!🥳
 
 <!--
 **sedacoder1/sedacoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a Cybersecurity student studying systems in depth
+- I'm currently working on applications in C++ and Python
+- I'm currently studying for CC and Comptia A+ certfications too.
+
+- I'd appreciate help understanding Cloud(AWS) and intergration of Cloud and Security.
+
+- Thank you for reading through.
+BYEEE!!
